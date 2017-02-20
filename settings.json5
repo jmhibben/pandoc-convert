@@ -1,0 +1,8 @@
+{
+  defaultRead: "markdown",
+  defaultWrite: "docx",
+  reference: {
+    docx: "",
+    odt: ""
+  }
+}
